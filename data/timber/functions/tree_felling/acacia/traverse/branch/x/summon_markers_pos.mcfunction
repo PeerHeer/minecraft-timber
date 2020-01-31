@@ -1,0 +1,2 @@
+execute positioned ~ ~1 ~ if block ~ ~ ~ #minecraft:acacia_logs[axis=y] align xyz positioned ~.5 ~.5 ~.5 run function timber:summon/acacia/branch_marker_y
+execute positioned ~1 ~1 ~ if block ~ ~ ~ #minecraft:acacia_logs[axis=y] align xyz positioned ~.5 ~.5 ~.5 run function timber:summon/acacia/x/branch_marker_x_pos

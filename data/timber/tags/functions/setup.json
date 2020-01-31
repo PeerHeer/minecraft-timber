@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "timber:setup/objectives",
+        "timber:setup/scores",
+        "timber:setup/forceload"
+    ]
+}
